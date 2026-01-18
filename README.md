@@ -27,8 +27,8 @@ I am a passionate learner with a strong foundation in both engineering and compu
 
 * **🎮 Flappy Bird Clone** * *C++ 2D Game with sprite rendering and collision detection.*
 * **🎬 AI-Powered Movie Booking System** * *Web app featuring intelligent suggestions and secure workflows.*
-* **🌐 Personal E-Portfolio**
-    * *Built with Tailwind CSS & JavaScript.* [View here](https://fkkry.github.io/)
+* **🌐 SECP1513 Technology & Information System E-Portfolio**
+    * *Built with Tailwind CSS & JavaScript.* [View here](https://fkkry.github.io/SECP1513)
 
 ---
 
@@ -40,6 +40,6 @@ I am a passionate learner with a strong foundation in both engineering and compu
 
 ### 📫 Connect With Me
 - 📧 **Email:** [muhammadaimanfikri@graduate.utm.my](mailto:muhammadaimanfikri@graduate.utm.my)
-- 🌐 **Portfolio:** [fkkry.github.io/portfolio](https://fkkry.github.io/)
+- 🌐 **My E-Portfolio:** [fkkry.github.io/](https://fkkry.github.io/)
 
 ---
