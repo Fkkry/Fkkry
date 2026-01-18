@@ -37,8 +37,7 @@ I am a passionate learner with a strong foundation in engineering and computer s
 ---
 
 ## Connect With Me
-- 📧 Email: rirkif98@gmail.com
+- 📧 Email: muhammadaimanfikri@graduate.utm.my
 - 🔗 LinkedIn: [linkedin.com/in/YOUR_USERNAME](https://linkedin.com/in/YOUR_USERNAME)  
-- 🌐 Portfolio: Coming soon  
 
 ---
