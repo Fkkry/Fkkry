@@ -22,7 +22,7 @@ I am a passionate learner with a strong foundation in engineering and computer s
 ---
 
 ## E-Portfolio
-- **SECP1513 Technology & Information System** - https://fkkry.github.io/
+- **SECP1513 Technology & Information System** - https://fkkry.github.io/SECP1513
 
 ---
 
