@@ -21,6 +21,11 @@ I am a passionate learner with a strong foundation in engineering and computer s
 
 ---
 
+## E-Portfolio
+- **SECP1513 Technology & Information System** - https://fkkry.github.io/
+
+---
+
 ## Academic & Career Goals
 - 📌 **Short-term:** Deliver polished, rubric-aligned academic projects; streamline video presentations; build creative features into coursework  
 - 🚀 **Long-term:** Transition into **Graphics & Multimedia**, specializing in interactive applications and creative digital solutions  
@@ -40,4 +45,4 @@ I am a passionate learner with a strong foundation in engineering and computer s
 - 📧 Email: muhammadaimanfikri@graduate.utm.my
 - 🔗 LinkedIn: [linkedin.com/in/YOUR_USERNAME](https://linkedin.com/in/YOUR_USERNAME)  
 
----
+
