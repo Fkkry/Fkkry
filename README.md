@@ -41,6 +41,6 @@ I am a passionate learner with a strong foundation in both engineering and compu
 ### 📫 Connect With Me
 - 📧 **Email:** [muhammadaimanfikri@graduate.utm.my](mailto:muhammadaimanfikri@graduate.utm.my)
 - 🌐 **My E-Portfolio:** [fkkry.github.io/](https://fkkry.github.io/)
-- 💼 *LinkedIn:* [MUHAMMAD AIMAN FIKRI](www.linkedin.com/in/aiman-fikry-3361513a7)
+- 💼 **LinkedIn:** [www.linkedin.com/in/aiman-fikry-3361513a7]
 
 ---
